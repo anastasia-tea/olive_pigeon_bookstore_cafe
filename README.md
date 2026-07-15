@@ -1,5 +1,7 @@
 # olive_pigeon_bookstore_cafe
-Final project for McGill University's INFS 657 course, completed in April 2026
+Final project for McGill University's INFS 657 course
+
+Completed in April 2026
 
 No AI used
 
