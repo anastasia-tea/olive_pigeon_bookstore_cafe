@@ -1,6 +1,10 @@
 # olive_pigeon_bookstore_cafe
 Final project for McGill University's INFS 657 course
 
+Video Demonstration: https://www.youtube.com/watch?v=_tG5mWXNIKE
+
+--
+
 Completed in April 2026
 
 No AI used
